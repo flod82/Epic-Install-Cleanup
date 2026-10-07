@@ -20,12 +20,14 @@ Features
 - Does not modify your Epic account or online library
 - Does not remove Epic Online Services core files such as overlay.egi, service.egi, or support.egi
 - Works with Windows PowerShell 5.1 and PowerShell 7+
+
 Requirements
 - Windows
 - Epic Games Launcher installed
 - PowerShell 5.1 or newer
 - Epic Games Launcher must be completely closed while the script runs
 Administrator privileges are normally not required, but Windows may require an elevated PowerShell session depending on local permissions.
+
 Usage
 PowerShell execution policy
 If Windows reports that script execution is disabled, this is a PowerShell security setting and does not necessarily indicate a problem with the script.
